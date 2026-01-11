@@ -1,0 +1,17 @@
+# Virtual environments (DO NOT UPLOAD)
+myenv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# YOLO / ML large model files
+*.weights
+*.pt
+*.h5
+
+# OS files
+Thumbs.db
+.DS_Store
